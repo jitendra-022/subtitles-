@@ -1,0 +1,4232 @@
+1
+00:00:00,000 --> 00:00:04,162
+WWW.MY-SUBS.CO
+
+1
+00:00:11,593 --> 00:00:13,263
+My fellow Americans,
+
+2
+00:00:13,296 --> 00:00:15,599
+no hacker should be able to
+shut down our networks...
+
+3
+00:00:15,633 --> 00:00:16,769
+<i>A massive attack.</i>
+
+4
+00:00:16,802 --> 00:00:18,538
+<i>Data is inaccessible.</i>
+
+5
+00:00:18,572 --> 00:00:21,311
+Or invade the privacy
+of American families.
+
+6
+00:00:21,345 --> 00:00:23,448
+You're being watched and recorded.
+
+7
+00:00:23,482 --> 00:00:24,685
+I urge this Congress
+
+8
+00:00:24,717 --> 00:00:28,491
+to protect our children's information.
+
+9
+00:00:28,525 --> 00:00:30,061
+<i>Dear brothers and sisters,</i>
+
+10
+00:00:30,094 --> 00:00:32,732
+now is the time to open your eyes.
+
+11
+00:00:32,765 --> 00:00:36,372
+<i>I started intercepting all
+the traffic on your network.</i>
+
+12
+00:00:36,406 --> 00:00:38,043
+<i>That's when I noticed something strange.</i>
+
+13
+00:00:38,076 --> 00:00:39,878
+That's when I decided to hack you.
+
+14
+00:00:41,449 --> 00:00:43,920
+<i>We are fsociety!</i>
+
+15
+00:00:43,952 --> 00:00:46,490
+<i>We are finally free!</i>
+
+16
+00:00:46,524 --> 00:00:48,394
+<i>We are on the verge</i>
+
+17
+00:00:48,427 --> 00:00:51,433
+of taking down this virtual reality.
+
+18
+00:00:51,467 --> 00:00:54,472
+Exciting time in the world
+right now, exciting time.
+
+19
+00:00:56,208 --> 00:00:59,714
+<i>So this is what a revolution looks like.</i>
+
+20
+00:00:59,748 --> 00:01:01,785
+Why did you do it?
+
+21
+00:01:01,819 --> 00:01:04,658
+I wanted to save the world.
+
+22
+00:01:04,691 --> 00:01:07,196
+<i>"Mr. Robot,"
+USA's Golden Globe</i>
+
+23
+00:01:07,230 --> 00:01:09,601
+<i>and Peabody award-winning original drama</i>
+
+24
+00:01:09,634 --> 00:01:13,072
+<i>about a vigilante hacker with
+a mission to change the world</i>
+
+25
+00:01:13,107 --> 00:01:15,310
+<i>has engaged audiences
+like no other show.</i>
+
+26
+00:01:15,345 --> 00:01:17,950
+"Mr. Robot" won two Golden Globes,
+
+27
+00:01:17,983 --> 00:01:19,552
+three Critics' Choice Awards,
+
+28
+00:01:19,584 --> 00:01:22,357
+<i>but what really says something
+about "Mr. Robot" is</i>
+
+29
+00:01:22,390 --> 00:01:25,562
+fans found this show even
+before the critics showed up,
+
+30
+00:01:25,596 --> 00:01:26,932
+even before the awards showed up.
+
+31
+00:01:26,965 --> 00:01:28,534
+<i>Its realistic portrayal</i>
+
+32
+00:01:28,569 --> 00:01:30,939
+<i>of a world where
+information is vulnerable,</i>
+
+33
+00:01:30,973 --> 00:01:34,747
+<i>everyone is being watched, and
+anyone can be compromised</i>
+
+34
+00:01:34,780 --> 00:01:38,052
+<i>has fueled its rise as
+a cultural phenomenon.</i>
+
+35
+00:01:38,086 --> 00:01:39,188
+"Mr. Robot" comes at a time
+
+36
+00:01:39,221 --> 00:01:41,324
+where you can't turn on the television
+
+37
+00:01:41,358 --> 00:01:42,896
+or read a newspaper without hearing
+
+38
+00:01:42,929 --> 00:01:45,333
+about some massive corporate
+or government hack.
+
+39
+00:01:45,366 --> 00:01:46,802
+<i>But how much of the world</i>
+
+40
+00:01:46,834 --> 00:01:49,473
+<i>portrayed by "Mr. Robot" is possible?</i>
+
+41
+00:01:49,507 --> 00:01:51,110
+<i>A lot more than you might think.</i>
+
+42
+00:01:51,143 --> 00:01:53,514
+<i>Over the next hour, we'll examine</i>
+
+43
+00:01:53,548 --> 00:01:57,522
+<i>what's truly at risk in our
+technology-obsessed world.</i>
+
+44
+00:01:57,554 --> 00:02:00,026
+The only completely secure computer
+
+45
+00:02:00,060 --> 00:02:02,598
+is a computer that no one can use.
+
+46
+00:02:02,631 --> 00:02:04,834
+<i>We'll talk
+to the creator and cast</i>
+
+47
+00:02:04,868 --> 00:02:06,705
+<i>as well as pop culture experts</i>
+
+48
+00:02:06,738 --> 00:02:10,177
+<i>about why "Mr. Robot" has
+resonated so powerfully.</i>
+
+49
+00:02:10,212 --> 00:02:12,983
+Something incredibly prophetic
+happened on the show,
+
+50
+00:02:13,017 --> 00:02:16,356
+almost, you know, weeks away
+from it happening in real life.
+
+51
+00:02:16,390 --> 00:02:18,795
+<i>And through
+unprecedented access</i>
+
+52
+00:02:18,827 --> 00:02:21,632
+<i>to cybersecurity experts
+and real-life hackers,</i>
+
+53
+00:02:21,666 --> 00:02:25,940
+<i>we'll reveal how "Mr. Robot" is
+mirroring real-world scenarios</i>
+
+54
+00:02:25,974 --> 00:02:27,444
+<i>if not outright predicting them.</i>
+
+55
+00:02:27,477 --> 00:02:29,949
+You look at the hacks that
+played out in season one...
+
+56
+00:02:29,981 --> 00:02:31,951
+gaining access to Steel Mountain,
+
+57
+00:02:31,985 --> 00:02:33,153
+<i>bumping next to someone</i>
+
+58
+00:02:33,188 --> 00:02:35,927
+<i>to steal and clone
+their proximity badge,</i>
+
+59
+00:02:35,959 --> 00:02:37,262
+<i>getting a backdoor in a phone...</i>
+
+60
+00:02:37,296 --> 00:02:40,368
+all of those are hacks that
+we read about in the news
+
+61
+00:02:40,402 --> 00:02:41,637
+every week now.
+
+62
+00:02:41,671 --> 00:02:43,474
+<i>Plus, we'll also discuss</i>
+
+63
+00:02:43,506 --> 00:02:45,042
+<i>what's in store for season two.</i>
+
+64
+00:02:45,076 --> 00:02:48,348
+The second season... it's very
+different from season one.
+
+65
+00:02:50,820 --> 00:02:55,629
+<i>This is "Mr. Robot dec0d3d."</i>
+
+66
+00:02:55,662 --> 00:02:57,967
+And the Golden Globe goes to...
+
+67
+00:02:59,969 --> 00:03:01,873
+"Mr. Robot." Yep.
+
+68
+00:03:01,908 --> 00:03:03,878
+<i>"Mr. Robot"
+is the brainchild</i>
+
+69
+00:03:03,911 --> 00:03:05,447
+<i>of creator Sam Esmail.</i>
+
+70
+00:03:05,481 --> 00:03:07,952
+"Mr. Robot" is about this
+sort of modern society
+
+71
+00:03:07,985 --> 00:03:10,055
+and the way we're so
+dependent on technology
+
+72
+00:03:10,089 --> 00:03:11,458
+<i>just to even socialize,</i>
+
+73
+00:03:11,492 --> 00:03:14,331
+so it's really about this
+guy who cannot connect,
+
+74
+00:03:14,363 --> 00:03:16,968
+and the only way he does
+so is by hacking people.
+
+75
+00:03:17,001 --> 00:03:19,908
+<i>"Mr. Robot" tells
+the story of Elliot Alderson.</i>
+
+76
+00:03:19,940 --> 00:03:21,610
+<i>By night, he's a socially withdrawn</i>
+
+77
+00:03:21,643 --> 00:03:24,749
+<i>but gifted computer hacker
+who uses his skills</i>
+
+78
+00:03:24,783 --> 00:03:26,452
+<i>to expose the misdeeds of others.</i>
+
+79
+00:03:26,487 --> 00:03:28,457
+Wait, hold on. I'll give you the money.
+
+80
+00:03:28,489 --> 00:03:29,590
+I'll pay you.
+
+81
+00:03:29,624 --> 00:03:30,993
+How much do you want? I'll pay you.
+
+82
+00:03:32,664 --> 00:03:35,570
+That's the part you were
+wrong about, Rohit.
+
+83
+00:03:35,602 --> 00:03:37,605
+I don't give a shit about money.
+
+84
+00:03:40,546 --> 00:03:43,184
+<i>By day, he's
+a cybersecurity expert</i>
+
+85
+00:03:43,217 --> 00:03:45,821
+<i>who's been recruited by
+the mysterious Mr. Robot</i>
+
+86
+00:03:45,855 --> 00:03:47,325
+<i>to bring down the very corporation</i>
+
+87
+00:03:47,357 --> 00:03:48,593
+<i>he was hired to protect.</i>
+
+88
+00:03:48,626 --> 00:03:53,235
+What if you could take
+down one conglomerate,
+
+89
+00:03:53,268 --> 00:03:56,574
+a conglomerate so deeply entrenched
+
+90
+00:03:56,607 --> 00:03:59,414
+in the world's economy
+that "too big to fail"
+
+91
+00:03:59,447 --> 00:04:01,284
+doesn't even come close
+to describing it?
+
+92
+00:04:01,316 --> 00:04:05,190
+<i>Together, with
+the hacker group fsociety,</i>
+
+93
+00:04:05,225 --> 00:04:08,397
+<i>he succeeds in crippling the
+world's most powerful firm,</i>
+
+94
+00:04:08,429 --> 00:04:10,466
+<i>setting in motion a global crisis</i>
+
+95
+00:04:10,501 --> 00:04:12,271
+<i>beyond anyone's control.</i>
+
+96
+00:04:12,304 --> 00:04:15,477
+<i>Evil Corp, the people of the world</i>
+
+97
+00:04:15,509 --> 00:04:19,384
+<i>who have been enslaved
+by you have been freed.</i>
+
+98
+00:04:19,417 --> 00:04:22,290
+<i>Your financial data has been destroyed.</i>
+
+99
+00:04:22,323 --> 00:04:25,828
+<i>"Mr. Robot" features
+a stellar ensemble cast</i>
+
+100
+00:04:25,862 --> 00:04:28,567
+<i>led by the Critics' Choice
+Award winner for Best Actor,</i>
+
+101
+00:04:28,600 --> 00:04:30,002
+<i>Rami Malek.</i>
+
+102
+00:04:30,037 --> 00:04:32,409
+Getting in Elliot's head,
+as odd as it seems,
+
+103
+00:04:32,441 --> 00:04:34,946
+is, you know, something I really enjoy,
+
+104
+00:04:34,980 --> 00:04:37,283
+<i>you know, to go into his psychosis,</i>
+
+105
+00:04:37,316 --> 00:04:39,119
+<i>what he's suffering through,</i>
+
+106
+00:04:39,153 --> 00:04:41,357
+<i>the good in him, the bad, the ugly.</i>
+
+107
+00:04:41,391 --> 00:04:44,864
+All of it is... it's
+something that consumes me.
+
+108
+00:04:44,898 --> 00:04:46,066
+<i>Christian Slater,</i>
+
+109
+00:04:46,100 --> 00:04:47,636
+<i>winner of the Golden Globe Award</i>
+
+110
+00:04:47,670 --> 00:04:50,641
+<i>for Best Supporting Actor, plays Mr.
+Robot.</i>
+
+111
+00:04:50,674 --> 00:04:53,379
+The relationship between Mr.
+Robot and Elliot...
+
+112
+00:04:53,412 --> 00:04:55,516
+<i>you know, this character, Mr. Robot,</i>
+
+113
+00:04:55,550 --> 00:05:00,057
+<i>comes into his life and
+lures him into his world</i>
+
+114
+00:05:00,091 --> 00:05:02,630
+to become part of this team of people
+
+115
+00:05:02,663 --> 00:05:04,699
+<i>that are really looking
+to change society.</i>
+
+116
+00:05:04,734 --> 00:05:08,674
+I tried to protect you, son,
+but they caught up to us.
+
+117
+00:05:08,708 --> 00:05:11,380
+What are you talking about?
+
+118
+00:05:11,413 --> 00:05:13,149
+That's Darlene and Angela.
+
+119
+00:05:13,182 --> 00:05:16,521
+Elliot, who are you talking to?
+
+120
+00:05:16,556 --> 00:05:19,361
+What do you mean? I'm talking to...
+
+121
+00:05:19,393 --> 00:05:21,263
+<i>This dark and edgy series,</i>
+
+122
+00:05:21,297 --> 00:05:25,105
+<i>with its cinematic style and
+unpredictable plotlines,</i>
+
+123
+00:05:25,138 --> 00:05:26,941
+<i>has struck a chord with viewers.</i>
+
+124
+00:05:26,975 --> 00:05:28,477
+The world of hacking really
+
+125
+00:05:28,511 --> 00:05:31,884
+is sort of an obscure world
+to the general population,
+
+126
+00:05:31,917 --> 00:05:34,723
+so the fact that we broke
+out in any way like that
+
+127
+00:05:34,756 --> 00:05:36,458
+is incredibly shocking.
+
+128
+00:05:36,492 --> 00:05:38,730
+<i>Kate Coyne,
+executive editor at "People,"</i>
+
+129
+00:05:38,763 --> 00:05:39,999
+<i>and Emily Yoshida,</i>
+
+130
+00:05:40,033 --> 00:05:41,970
+<i>entertainment editor at "The Verge,"</i>
+
+131
+00:05:42,004 --> 00:05:43,706
+<i>have closely followed "Mr. Robot's" rise</i>
+
+132
+00:05:43,739 --> 00:05:46,110
+<i>to prominence in pop culture.</i>
+
+133
+00:05:46,143 --> 00:05:48,648
+I think "Mr. Robot"
+made such an impression
+
+134
+00:05:48,682 --> 00:05:50,085
+because of the timeliness.
+
+135
+00:05:50,117 --> 00:05:52,053
+<i>It's inspired big debates</i>
+
+136
+00:05:52,088 --> 00:05:53,924
+<i>that went beyond the events of the show.</i>
+
+137
+00:05:53,958 --> 00:05:56,329
+I think that's always the sign of a show
+
+138
+00:05:56,362 --> 00:05:59,970
+<i>that is meaningful for the
+time in which it's being made.</i>
+
+139
+00:06:00,002 --> 00:06:02,072
+<i>The things that concern us,</i>
+
+140
+00:06:02,107 --> 00:06:04,779
+<i>the big ideas that concern
+us at any given era...</i>
+
+141
+00:06:04,811 --> 00:06:06,749
+I think "Mr. Robot"
+really taps into that.
+
+142
+00:06:06,783 --> 00:06:09,254
+This is very much a show
+that could only exist
+
+143
+00:06:09,287 --> 00:06:10,757
+in a post-WikiLeaks world.
+
+144
+00:06:10,790 --> 00:06:12,693
+<i>You know, everybody, I think,</i>
+
+145
+00:06:12,727 --> 00:06:14,964
+<i>probably suspects that, on some level,</i>
+
+146
+00:06:14,997 --> 00:06:17,602
+<i>what they're doing is being
+watched or recorded.</i>
+
+147
+00:06:17,636 --> 00:06:20,441
+When a cry goes up about the NSA
+
+148
+00:06:20,473 --> 00:06:22,576
+or about Edward Snowden or something,
+
+149
+00:06:22,610 --> 00:06:25,149
+a lot of people practically
+just shrug, like,
+
+150
+00:06:25,182 --> 00:06:26,651
+"Yeah, yeah, probably...
+
+151
+00:06:26,684 --> 00:06:28,220
+you're probably listening
+to my cell calls."
+
+152
+00:06:28,254 --> 00:06:31,828
+That's crazy, but that's the
+state that we're in now.
+
+153
+00:06:31,862 --> 00:06:35,167
+<i>Anybody can hack into anything.</i>
+
+154
+00:06:35,201 --> 00:06:36,269
+His was the easiest to hack.
+
+155
+00:06:36,304 --> 00:06:38,842
+Password was 123456Seven.
+
+156
+00:06:38,874 --> 00:06:40,610
+<i>I witnessed his first "I love you"</i>
+
+157
+00:06:40,643 --> 00:06:42,581
+<i>with Angela over Gchat.</i>
+
+158
+00:06:42,614 --> 00:06:44,651
+<i>Then I witnessed the first
+of many infidelities</i>
+
+159
+00:06:44,686 --> 00:06:46,489
+<i>with Stella B.</i>
+
+160
+00:06:46,521 --> 00:06:48,458
+Everything about us is all digital.
+
+161
+00:06:48,492 --> 00:06:50,061
+It's all in a cloud.
+
+162
+00:06:50,095 --> 00:06:52,332
+<i>Now you can go get somebody's
+social security, fingerprints,</i>
+
+163
+00:06:52,365 --> 00:06:53,701
+<i>images, everything.</i>
+
+164
+00:06:53,735 --> 00:06:56,004
+<i>You can literally take
+over their entire life.</i>
+
+165
+00:06:56,038 --> 00:06:57,708
+That's frightening.
+
+166
+00:06:57,742 --> 00:06:59,512
+<i>It's not like they're talking about it</i>
+
+167
+00:06:59,545 --> 00:07:00,646
+<i>in science-fiction terms.</i>
+
+168
+00:07:00,681 --> 00:07:02,084
+What they're tackling is something
+
+169
+00:07:02,117 --> 00:07:04,021
+that's actually currently,
+right now happening.
+
+170
+00:07:05,958 --> 00:07:08,864
+<i>Coming up on "Mr.
+Robot dec0d3d,"</i>
+
+171
+00:07:08,896 --> 00:07:11,667
+<i>we'll take a deeper look at the
+rise of hacking culture...</i>
+
+172
+00:07:11,701 --> 00:07:13,004
+<i>There's always been a little bit</i>
+
+173
+00:07:13,037 --> 00:07:15,374
+of wish fulfillment to hacker stories
+
+174
+00:07:15,408 --> 00:07:18,814
+in that they are the sort
+of modern superheroes.
+
+175
+00:07:18,848 --> 00:07:20,751
+<i>And learn
+how a Hollywood movie</i>
+
+176
+00:07:20,785 --> 00:07:23,624
+<i>alerted a president to the
+dangers of cybersecurity.</i>
+
+177
+00:07:26,129 --> 00:07:28,032
+<i>Plus, we'll also discuss</i>
+
+178
+00:07:28,064 --> 00:07:30,035
+<i>what's in store for season two.</i>
+
+179
+00:07:30,069 --> 00:07:34,177
+But first, a word from
+our corporate overlords!
+
+180
+00:07:36,230 --> 00:07:39,803
+Come on, kid. We got
+big things in store.
+
+181
+00:07:39,836 --> 00:07:41,139
+Big things.
+
+182
+00:07:41,173 --> 00:07:43,242
+<i>"Mr. Robot's"
+authentic portrayal</i>
+
+183
+00:07:43,276 --> 00:07:45,247
+<i>of computer hacking has alerted us</i>
+
+184
+00:07:45,279 --> 00:07:47,717
+<i>to the real-world dangers we all face.</i>
+
+185
+00:07:47,750 --> 00:07:51,892
+<i>Now we'll find out just
+how much we're at risk.</i>
+
+186
+00:07:51,925 --> 00:07:55,533
+<i>This is "Mr. Robot dec0d3d."</i>
+
+187
+00:07:57,704 --> 00:08:02,579
+How about Global Thermonuclear War?
+
+188
+00:08:03,815 --> 00:08:06,252
+<i>In 1983,
+the movie "WarGames"</i>
+
+189
+00:08:06,286 --> 00:08:08,857
+<i>forever changed the way
+we would look at hacking.</i>
+
+190
+00:08:08,889 --> 00:08:11,961
+Ronald Reagan was apparently
+shown the movie "WarGames,"
+
+191
+00:08:11,995 --> 00:08:15,536
+and he commissioned, you
+know, a study as to:
+
+192
+00:08:15,569 --> 00:08:17,238
+Is this actually possible?
+
+193
+00:08:17,271 --> 00:08:19,009
+And everybody was
+expecting the answer was,
+
+194
+00:08:19,043 --> 00:08:22,281
+"No, you can't start, you know,
+a global thermonuclear war
+
+195
+00:08:22,315 --> 00:08:24,820
+"just by dialing up, you know,
+a computer accidentally
+
+196
+00:08:24,853 --> 00:08:26,156
+and getting it to talk to you."
+
+197
+00:08:26,189 --> 00:08:29,495
+And unfortunately, the
+answer came back going,
+
+198
+00:08:29,528 --> 00:08:32,500
+"Well, um, this is a little
+more possible than we thought."
+
+199
+00:08:32,534 --> 00:08:34,104
+<i>"WarGames" also spawned</i>
+
+200
+00:08:34,137 --> 00:08:36,440
+<i>a whole new generation of hackers.</i>
+
+201
+00:08:36,474 --> 00:08:38,444
+I mean, I remember being a kid
+and watching Matthew Broderick
+
+202
+00:08:38,478 --> 00:08:39,981
+do all that and going,
+"That's really cool.
+
+203
+00:08:40,015 --> 00:08:41,150
+That's really awesome," you know?
+
+204
+00:08:41,184 --> 00:08:43,353
+And, by the way, he saved the world.
+
+205
+00:08:43,387 --> 00:08:47,728
+It's the first time that you
+saw Hollywood trying to depict
+
+206
+00:08:47,762 --> 00:08:49,031
+what people could do with computers
+
+207
+00:08:49,064 --> 00:08:51,168
+that went beyond just playing
+games and sending emails
+
+208
+00:08:51,201 --> 00:08:55,142
+and got me even more excited in
+computers and computer hacking.
+
+209
+00:08:55,176 --> 00:08:57,815
+<i>What is hacking? Who hacks?</i>
+
+210
+00:08:57,848 --> 00:08:59,818
+<i>How and why is it executed?</i>
+
+211
+00:08:59,852 --> 00:09:03,158
+<i>To get the answers, we went
+to world-renowned specialists</i>
+
+212
+00:09:03,190 --> 00:09:04,859
+<i>in the field of cybersecurity</i>
+
+213
+00:09:04,893 --> 00:09:07,431
+<i>and to the foremost
+experts on the subject,</i>
+
+214
+00:09:07,464 --> 00:09:08,566
+<i>the hackers themselves.</i>
+
+215
+00:09:08,600 --> 00:09:09,969
+Everybody has a different answer
+
+216
+00:09:10,002 --> 00:09:13,242
+on what a hacker is or what
+is a hack, but for me,
+
+217
+00:09:13,276 --> 00:09:15,714
+it comes down to making
+technology do stuff
+
+218
+00:09:15,747 --> 00:09:17,483
+it was never meant to do.
+
+219
+00:09:17,517 --> 00:09:19,922
+<i>The show "Mr. Robot"
+I'm particular fond of</i>
+
+220
+00:09:19,955 --> 00:09:21,959
+because they point out how, oftentimes,
+
+221
+00:09:21,992 --> 00:09:24,497
+it's very simplistic,
+the hacking mechanism.
+
+222
+00:09:24,530 --> 00:09:26,098
+<i>Sometimes it's having physical access,</i>
+
+223
+00:09:26,132 --> 00:09:28,204
+<i>so you can swap a SIM out in a phone.</i>
+
+224
+00:09:28,238 --> 00:09:30,007
+<i>Other times, it's social engineering.</i>
+
+225
+00:09:30,040 --> 00:09:33,814
+It's not that they cracked
+some code or some encryption.
+
+226
+00:09:33,847 --> 00:09:35,116
+It's that they sent an email,
+
+227
+00:09:35,148 --> 00:09:37,219
+<i>and they misrepresented
+who they were, they...</i>
+
+228
+00:09:37,253 --> 00:09:39,022
+<i>and got you to click on an attachment</i>
+
+229
+00:09:39,056 --> 00:09:40,693
+<i>and run the code for them</i>
+
+230
+00:09:40,727 --> 00:09:42,129
+or that they called up on the phone
+
+231
+00:09:42,161 --> 00:09:44,333
+and pretended that they were,
+you know, a technical person
+
+232
+00:09:44,367 --> 00:09:45,870
+<i>to get you to give information.</i>
+
+233
+00:09:45,903 --> 00:09:47,239
+<i>Hello?</i>
+
+234
+00:09:47,272 --> 00:09:50,979
+Hi, this is Sam from Bank of
+E security fraud department.
+
+235
+00:09:51,012 --> 00:09:52,648
+Unfortunately, I have to inform you
+
+236
+00:09:52,681 --> 00:09:54,517
+that your account's been compromised.
+
+237
+00:09:54,551 --> 00:09:56,889
+<i>What? What happened?</i>
+
+238
+00:09:56,924 --> 00:09:59,026
+First, before I can
+answer any questions,
+
+239
+00:09:59,060 --> 00:10:00,530
+I need to verify some information.
+
+240
+00:10:00,563 --> 00:10:03,068
+Are you still at 306 Hawthorne Avenue?
+
+241
+00:10:03,100 --> 00:10:05,037
+Yes, apartment 2C.
+
+242
+00:10:05,071 --> 00:10:07,408
+Great, and your security question,
+
+243
+00:10:07,443 --> 00:10:08,779
+favorite baseball team.
+
+244
+00:10:08,811 --> 00:10:10,681
+<i>Um, Yankees.</i>
+
+245
+00:10:10,715 --> 00:10:12,585
+<i>I don't remember this being
+a security question.</i>
+
+246
+00:10:12,618 --> 00:10:14,254
+And lastly, your pet's name.
+
+247
+00:10:14,289 --> 00:10:16,928
+<i>Um, Flipper. Uh, who am I speaking to?</i>
+
+248
+00:10:16,960 --> 00:10:19,932
+<i>Can I get your name and numb...</i>
+
+249
+00:10:19,965 --> 00:10:22,302
+<i>With those details plus a
+dictionary brute-force attack,</i>
+
+250
+00:10:22,337 --> 00:10:24,173
+<i>it'll take my program maybe two minutes</i>
+
+251
+00:10:24,207 --> 00:10:25,443
+<i>to crack his password.</i>
+
+252
+00:10:25,475 --> 00:10:26,711
+<i>The last five, ten years,</i>
+
+253
+00:10:26,744 --> 00:10:29,316
+<i>hacking has become like a new superpower</i>
+
+254
+00:10:29,349 --> 00:10:30,651
+that hasn't been invented,
+
+255
+00:10:30,685 --> 00:10:33,925
+and because of everyone's
+reliance on technology
+
+256
+00:10:33,958 --> 00:10:35,828
+and all your personal
+information being online,
+
+257
+00:10:35,862 --> 00:10:38,334
+<i>this power just sort of came about.</i>
+
+258
+00:10:38,367 --> 00:10:39,669
+<i>Hacking her was simple.</i>
+
+259
+00:10:39,701 --> 00:10:41,805
+<i>Her password: Dylan 2791.</i>
+
+260
+00:10:41,839 --> 00:10:43,175
+<i>Favorite artist</i>
+
+261
+00:10:43,209 --> 00:10:45,847
+<i>and the year in which she
+was born, backwards.</i>
+
+262
+00:10:45,880 --> 00:10:49,620
+<i>People are horrible at being
+sources of randomness,</i>
+
+263
+00:10:49,653 --> 00:10:51,223
+so, you know, somebody might think,
+
+264
+00:10:51,257 --> 00:10:53,194
+"Oh, I used my dog's
+name, my baby's name,
+
+265
+00:10:53,228 --> 00:10:55,430
+and the birth... and the birth date."
+
+266
+00:10:55,464 --> 00:10:56,632
+That's a horrible password.
+
+267
+00:10:56,666 --> 00:10:58,670
+It might seem complicated to you,
+
+268
+00:10:58,704 --> 00:11:00,574
+but we know how you think
+because you're a human,
+
+269
+00:11:00,608 --> 00:11:01,843
+and humans are predictable.
+
+270
+00:11:01,877 --> 00:11:03,213
+<i>This doesn't make sense.</i>
+
+271
+00:11:03,246 --> 00:11:04,682
+<i>Did he know I was gonna hack him?</i>
+
+272
+00:11:04,714 --> 00:11:07,051
+<i>Did he let me?</i>
+
+273
+00:11:07,085 --> 00:11:10,157
+<i>I'm gonna need to wipe everything.</i>
+
+274
+00:11:10,191 --> 00:11:13,363
+"Hackers," you know, it
+used to be a nasty word.
+
+275
+00:11:13,397 --> 00:11:15,567
+It was, like, synonymous
+with "criminal,"
+
+276
+00:11:15,602 --> 00:11:17,973
+but now they're part of the system.
+
+277
+00:11:18,007 --> 00:11:21,346
+<i>But not all hackers
+are cut from the same cloth.</i>
+
+278
+00:11:21,380 --> 00:11:24,052
+So a white hat hacker is one
+
+279
+00:11:24,084 --> 00:11:28,025
+who would be hired by a corporation
+
+280
+00:11:28,058 --> 00:11:29,361
+<i>to hack their systems</i>
+
+281
+00:11:29,393 --> 00:11:32,231
+for the sole purpose
+of finding the flaws,
+
+282
+00:11:32,266 --> 00:11:35,973
+<i>whereas black hat... there's
+no permission whatsoever,</i>
+
+283
+00:11:36,006 --> 00:11:39,680
+<i>and it's usually for malicious purposes.</i>
+
+284
+00:11:39,713 --> 00:11:41,348
+And then there's the middle ground,
+
+285
+00:11:41,382 --> 00:11:42,550
+which is grey hat.
+
+286
+00:11:42,584 --> 00:11:46,090
+<i>Hello, Evil Corp. We are fsociety.</i>
+
+287
+00:11:46,124 --> 00:11:48,194
+<i>Over the years, we've been watching you:</i>
+
+288
+00:11:48,228 --> 00:11:50,199
+<i>your financial abuse of the poor,</i>
+
+289
+00:11:50,233 --> 00:11:52,103
+<i>your corruption of governments,</i>
+
+290
+00:11:52,137 --> 00:11:55,209
+<i>your cover-ups of the murder
+of innocent ordinary citizens</i>
+
+291
+00:11:55,242 --> 00:11:57,245
+<i>all for the sake of profit.</i>
+
+292
+00:11:57,278 --> 00:12:00,852
+<i>This is why we at fsociety
+have decided you must die.</i>
+
+293
+00:12:00,886 --> 00:12:04,225
+I would characterize the
+members of fsociety
+
+294
+00:12:04,258 --> 00:12:06,796
+<i>as probably falling into that grey area</i>
+
+295
+00:12:06,829 --> 00:12:09,602
+<i>because, while their
+intentions are good,</i>
+
+296
+00:12:09,635 --> 00:12:13,107
+<i>they are doing highly illegal things.</i>
+
+297
+00:12:13,141 --> 00:12:14,843
+The entire company's gonna be reeling
+
+298
+00:12:14,877 --> 00:12:16,815
+from all the data dumps we've
+got in store for them,
+
+299
+00:12:16,848 --> 00:12:18,151
+and, man, do we have some goodies.
+
+300
+00:12:18,185 --> 00:12:20,287
+Some good old-fashioned
+executive racism,
+
+301
+00:12:20,320 --> 00:12:22,324
+sexism, fascism.
+
+302
+00:12:22,358 --> 00:12:24,395
+Trust me... we are gonna
+"ism" so much all over them,
+
+303
+00:12:24,429 --> 00:12:25,832
+they won't be able to see straight.
+
+304
+00:12:29,103 --> 00:12:30,574
+<i>Unlike their motives,</i>
+
+305
+00:12:30,607 --> 00:12:33,545
+<i>there are many psychological
+traits that hackers share.</i>
+
+306
+00:12:33,579 --> 00:12:35,615
+Elliot, he's probably
+depicted more accurate
+
+307
+00:12:35,648 --> 00:12:37,151
+than I've seen in a long time,
+
+308
+00:12:37,185 --> 00:12:39,422
+not just for the technical capabilities
+
+309
+00:12:39,457 --> 00:12:44,132
+and how it is but the actual,
+like, psychological profile.
+
+310
+00:12:44,166 --> 00:12:45,901
+<i>He's got that young hacker vibe.</i>
+
+311
+00:12:45,935 --> 00:12:48,507
+<i>And then his involvement in
+how he feels about society</i>
+
+312
+00:12:48,540 --> 00:12:51,212
+<i>and that counter culture I
+think is very accurate.</i>
+
+313
+00:12:51,246 --> 00:12:54,012
+<i>I hate when I can't
+hold in my loneliness.</i>
+
+314
+00:12:54,608 --> 00:12:56,344
+<i>This crying's been happening too often,</i>
+
+315
+00:12:56,378 --> 00:12:58,214
+<i>every other week now.</i>
+
+316
+00:12:58,248 --> 00:13:00,820
+<i>What do normal people do
+when they get this sad?</i>
+
+317
+00:13:00,853 --> 00:13:03,425
+He's such a complicated character.
+
+318
+00:13:03,458 --> 00:13:05,896
+<i>He's full of contradictions.</i>
+
+319
+00:13:05,929 --> 00:13:08,132
+<i>He hates what society has become,</i>
+
+320
+00:13:08,166 --> 00:13:09,969
+<i>but he also wants to save it.</i>
+
+321
+00:13:10,003 --> 00:13:13,176
+He looks down on the people
+that he cares about,
+
+322
+00:13:13,209 --> 00:13:14,512
+<i>but then he also protects them.</i>
+
+323
+00:13:14,546 --> 00:13:17,316
+His abandonment issues
+are actually something
+
+324
+00:13:17,349 --> 00:13:20,689
+that I believe personally
+and I've seen in my work.
+
+325
+00:13:20,723 --> 00:13:23,295
+I think it is a big motivator
+on why people get into hacking.
+
+326
+00:13:23,328 --> 00:13:25,331
+<i>Elliot's, you know, trapped in a bubble.</i>
+
+327
+00:13:25,364 --> 00:13:26,767
+He's very lonely. He doesn't know how
+
+328
+00:13:26,801 --> 00:13:29,873
+to connect with people, so
+he hacks into their lives.
+
+329
+00:13:29,907 --> 00:13:31,477
+<i>I think all of us to a certain degree</i>
+
+330
+00:13:31,509 --> 00:13:33,812
+<i>can connect with that
+type of loneliness,</i>
+
+331
+00:13:33,847 --> 00:13:37,086
+<i>and the need to maybe not be so robotic</i>
+
+332
+00:13:37,119 --> 00:13:39,991
+and have more of a human
+connection with one another.
+
+333
+00:13:40,025 --> 00:13:41,361
+I like you, bro,
+
+334
+00:13:41,393 --> 00:13:44,132
+and I want you to like me too.
+
+335
+00:13:44,166 --> 00:13:46,671
+<i>Am I crazy not to like this guy?</i>
+
+336
+00:13:46,705 --> 00:13:48,340
+<i>Amongst some of his Facebook likes</i>
+
+337
+00:13:48,373 --> 00:13:50,377
+<i>are George W. Bush's "Decision Points,"</i>
+
+338
+00:13:50,411 --> 00:13:52,714
+<i>"Transformers 2: Revenge of the Fallen,"</i>
+
+339
+00:13:52,748 --> 00:13:55,186
+<i>and the music of Josh Groban.</i>
+
+340
+00:13:55,219 --> 00:13:57,892
+<i>Must I really justify
+myself any further?</i>
+
+341
+00:13:57,925 --> 00:13:59,328
+<i>When you're socially awkward,</i>
+
+342
+00:13:59,362 --> 00:14:01,065
+or you're worried about
+people judging you,
+
+343
+00:14:01,098 --> 00:14:03,836
+<i>you have all these anxieties
+that just aren't there</i>
+
+344
+00:14:03,868 --> 00:14:05,404
+<i>when you're in front of a computer.</i>
+
+345
+00:14:05,439 --> 00:14:06,709
+<i>It's a lot harder to talk to people</i>
+
+346
+00:14:06,742 --> 00:14:08,812
+<i>than it is to deal with
+a piece of software.</i>
+
+347
+00:14:10,415 --> 00:14:12,084
+<i>But when
+hackers do come together</i>
+
+348
+00:14:12,118 --> 00:14:15,022
+<i>and groups are formed, leaders emerge.</i>
+
+349
+00:14:15,056 --> 00:14:16,926
+You want to talk about reality?
+
+350
+00:14:16,959 --> 00:14:19,229
+We haven't lived in anything
+remotely close to it
+
+351
+00:14:19,263 --> 00:14:20,834
+since the turn of the century.
+
+352
+00:14:20,868 --> 00:14:22,671
+We turned it off, took
+out the batteries,
+
+353
+00:14:22,704 --> 00:14:25,776
+snacked on a bag of GMOs
+while we tossed the remnants
+
+354
+00:14:25,810 --> 00:14:29,282
+in the ever-expanding dumpster
+of the human condition.
+
+355
+00:14:29,316 --> 00:14:32,589
+We live in branded houses,
+trademarked by corporations,
+
+356
+00:14:32,623 --> 00:14:35,128
+built on bipolar numbers.
+
+357
+00:14:35,161 --> 00:14:36,863
+<i>In every hacker group
+there's this leader that,</i>
+
+358
+00:14:36,897 --> 00:14:38,499
+<i>online they're quiet,</i>
+
+359
+00:14:38,533 --> 00:14:40,003
+<i>they're hidden in the background,</i>
+
+360
+00:14:40,036 --> 00:14:42,339
+but when you meet them they're
+actually really extroverted
+
+361
+00:14:42,373 --> 00:14:44,744
+and, like, passionate and principled.
+
+362
+00:14:44,777 --> 00:14:46,580
+I didn't want to hurt you, Romero.
+
+363
+00:14:46,614 --> 00:14:48,719
+I just wanted you to come
+back to the arcade with me
+
+364
+00:14:48,752 --> 00:14:51,190
+so we could change the world together.
+
+365
+00:14:51,223 --> 00:14:53,060
+<i>It is this
+instigator mentality</i>
+
+366
+00:14:53,094 --> 00:14:55,998
+<i>that forms the basis of Mr.
+Robot's character.</i>
+
+367
+00:14:56,032 --> 00:14:58,369
+Do I think Elliot needs Mr. Robot?
+
+368
+00:14:58,403 --> 00:15:03,044
+<i>I think he's a vital element
+to Elliot's survival.</i>
+
+369
+00:15:03,079 --> 00:15:08,556
+He is that darker side that
+will sometimes do things
+
+370
+00:15:08,589 --> 00:15:12,695
+that Elliot otherwise would
+be incapable of doing.
+
+371
+00:15:12,729 --> 00:15:14,899
+<i>Coming up, we'll
+explore the eerie ways</i>
+
+372
+00:15:14,934 --> 00:15:17,606
+<i>"Mr. Robot" parallels the real world.</i>
+
+373
+00:15:17,638 --> 00:15:19,575
+The Sony hack got a lot of notoriety.
+
+374
+00:15:19,609 --> 00:15:21,345
+<i>The Ashley Madison hack
+got a lot of notoriety.</i>
+
+375
+00:15:21,378 --> 00:15:23,048
+Our show is getting a lot of notoriety
+
+376
+00:15:23,081 --> 00:15:25,719
+because of the real world connections.
+
+377
+00:15:25,753 --> 00:15:27,123
+<i>Plus, we'll also discuss</i>
+
+378
+00:15:27,157 --> 00:15:28,859
+<i>what's in store for season two.</i>
+
+379
+00:15:28,892 --> 00:15:32,065
+<i>We kind of, like, press the
+gas pedal down really hard.</i>
+
+380
+00:15:32,099 --> 00:15:34,435
+<i>Gotten to know my stunt
+double more this season,</i>
+
+381
+00:15:34,469 --> 00:15:36,840
+so that might say something.
+
+382
+00:15:36,873 --> 00:15:38,945
+<i>This is "Mr. Robot dec0d3d."</i>
+
+383
+00:15:41,183 --> 00:15:42,919
+<i>"Mr. Robot's"
+authentic portrayal</i>
+
+384
+00:15:42,953 --> 00:15:44,655
+<i>of computer hacking has alerted us</i>
+
+385
+00:15:44,689 --> 00:15:47,594
+<i>to the real-world dangers we all face.</i>
+
+386
+00:15:47,627 --> 00:15:51,901
+<i>Now we'll find out just
+how much we're at risk.</i>
+
+387
+00:15:51,935 --> 00:15:54,132
+<i>This is "Mr. Robot dec0d3d."</i>
+
+388
+00:15:56,043 --> 00:15:58,782
+This kid should not be
+allowed to do what he did.
+
+389
+00:15:58,815 --> 00:16:01,854
+He hacked into my private life.
+
+390
+00:16:01,887 --> 00:16:04,825
+And then those Ashley
+Madison dumps happened.
+
+391
+00:16:04,860 --> 00:16:07,799
+My wife found out about
+everything anyway.
+
+392
+00:16:07,832 --> 00:16:08,933
+She left me.
+
+393
+00:16:08,967 --> 00:16:10,135
+<i>In a year
+in which we've seen</i>
+
+394
+00:16:10,169 --> 00:16:12,272
+<i>a record number of cyber attacks,</i>
+
+395
+00:16:12,307 --> 00:16:15,412
+<i>"Mr. Robot's" timeliness
+is almost uncanny.</i>
+
+396
+00:16:15,446 --> 00:16:16,849
+I don't know that a TV show
+
+397
+00:16:16,881 --> 00:16:18,952
+can necessarily predict the future,
+
+398
+00:16:18,986 --> 00:16:21,958
+but certainly, they can hold a mirror up
+
+399
+00:16:21,991 --> 00:16:24,227
+to the direction in which we're headed.
+
+400
+00:16:24,261 --> 00:16:25,664
+<i>And while some storylines</i>
+
+401
+00:16:25,698 --> 00:16:27,467
+<i>are ripped from the headlines,</i>
+
+402
+00:16:27,501 --> 00:16:30,439
+<i>other times, "Mr.
+Robot" was there first.</i>
+
+403
+00:16:30,472 --> 00:16:32,609
+There were two instances on "Mr. Robot"
+
+404
+00:16:32,644 --> 00:16:36,717
+where something incredibly
+prophetic happened on the show
+
+405
+00:16:36,751 --> 00:16:40,392
+weeks away from it
+happening in real life.
+
+406
+00:16:40,425 --> 00:16:42,395
+The Ashley Madison hacks were one.
+
+407
+00:16:42,429 --> 00:16:44,598
+You know, one of the escorts was 15.
+
+408
+00:16:48,506 --> 00:16:51,612
+And then the other one was the
+shooting of the news anchor
+
+409
+00:16:51,645 --> 00:16:55,919
+<i>in Virginia that happened
+so close to a similar event</i>
+
+410
+00:16:55,953 --> 00:16:57,055
+<i>happening on "Mr. Robot"</i>
+
+411
+00:16:57,089 --> 00:16:59,827
+that the finale had to be delayed a week
+
+412
+00:16:59,861 --> 00:17:01,296
+just out of sensitivity.
+
+413
+00:17:01,331 --> 00:17:03,836
+These aren't just isolated incidences
+
+414
+00:17:03,869 --> 00:17:05,472
+that exist in a bubble.
+
+415
+00:17:05,505 --> 00:17:08,611
+These are things that are
+symptoms of larger things
+
+416
+00:17:08,644 --> 00:17:09,980
+going on in our society.
+
+417
+00:17:10,014 --> 00:17:12,184
+<i>Colby either used hacking groups</i>
+
+418
+00:17:12,217 --> 00:17:14,121
+<i>or worked in conjunction with them.</i>
+
+419
+00:17:14,153 --> 00:17:16,290
+I think a lot of "Mr.
+Robot" and the hacks in it
+
+420
+00:17:16,324 --> 00:17:17,693
+<i>kind of reflect reality.</i>
+
+421
+00:17:17,727 --> 00:17:18,728
+<i>It's happening, it's happening,</i>
+
+422
+00:17:18,763 --> 00:17:20,366
+<i>it's happening, it's happening.</i>
+
+423
+00:17:20,400 --> 00:17:23,671
+The hacks that are happening
+every week in the real world
+
+424
+00:17:23,705 --> 00:17:26,342
+are stranger than fiction almost.
+
+425
+00:17:30,083 --> 00:17:31,786
+<i>Power plants hacked,</i>
+
+426
+00:17:31,820 --> 00:17:35,126
+<i>a movie not released because
+North Korea was upset,</i>
+
+427
+00:17:35,159 --> 00:17:36,763
+<i>some of the biggest
+retailers in the world</i>
+
+428
+00:17:36,796 --> 00:17:38,833
+<i>lose millions and millions
+worth of credit cards or data,</i>
+
+429
+00:17:38,865 --> 00:17:41,704
+<i>hospitals shut down because
+all their files got encrypted</i>
+
+430
+00:17:41,738 --> 00:17:43,708
+<i>by someone trying to get
+ransom out of them.</i>
+
+431
+00:17:43,742 --> 00:17:46,647
+These all sound like the storylines
+
+432
+00:17:46,680 --> 00:17:49,152
+of a TV show about hacking,
+
+433
+00:17:49,186 --> 00:17:51,188
+but it's actually happening now.
+
+434
+00:17:51,223 --> 00:17:53,861
+"Secretary of Homeland
+Security Jeh Johnson
+
+435
+00:17:53,893 --> 00:17:56,532
+"released a statement today
+stating that these groups
+
+436
+00:17:56,565 --> 00:18:00,072
+"lack the resources and
+knowledge of the USL
+
+437
+00:18:00,105 --> 00:18:04,012
+to successfully mount
+an attack," end quote.
+
+438
+00:18:04,046 --> 00:18:06,684
+There are some brilliant
+people out there,
+
+439
+00:18:06,717 --> 00:18:09,323
+<i>both on the offense and
+defensive side of things</i>
+
+440
+00:18:09,355 --> 00:18:12,294
+that can do amazing
+things with computers.
+
+441
+00:18:12,329 --> 00:18:14,032
+You got this, you got
+this, you got this.
+
+442
+00:18:14,064 --> 00:18:16,702
+And it's both inspiring
+and kind of scary
+
+443
+00:18:16,736 --> 00:18:17,838
+sometimes to see that.
+
+444
+00:18:23,114 --> 00:18:26,153
+I, uh... I have to go. I'm sorry.
+
+445
+00:18:26,187 --> 00:18:27,823
+I need to go to my office.
+
+446
+00:18:27,856 --> 00:18:28,824
+What'd you do?
+
+447
+00:18:28,859 --> 00:18:29,927
+I spoofed a text
+
+448
+00:18:29,960 --> 00:18:31,130
+from her husband.
+
+449
+00:18:35,137 --> 00:18:38,476
+So, yeah, probably the most
+alarming hack we've seen
+
+450
+00:18:38,509 --> 00:18:41,114
+was the Sony hack where
+not only, you know,
+
+451
+00:18:41,148 --> 00:18:43,820
+all of these email
+archives were compromised,
+
+452
+00:18:43,852 --> 00:18:47,258
+but also it was released
+on a schedule of,
+
+453
+00:18:47,293 --> 00:18:50,131
+you know, every week we're gonna
+have another one of these,
+
+454
+00:18:50,165 --> 00:18:52,670
+until you meet with our demands.
+
+455
+00:18:52,702 --> 00:18:54,672
+<i>Another parallel
+between "Mr. Robot"</i>
+
+456
+00:18:54,707 --> 00:18:58,045
+<i>and the real world can be seen
+in fsociety's threatened use</i>
+
+457
+00:18:58,079 --> 00:19:02,020
+<i>of a data dump, a scenario
+inspired by the Sony hack.</i>
+
+458
+00:19:02,054 --> 00:19:04,024
+They hit the mother
+lode during the breach,
+
+459
+00:19:04,057 --> 00:19:07,496
+potentially terabytes
+worth of email and files.
+
+460
+00:19:07,529 --> 00:19:10,134
+They're threatening to dump everything.
+
+461
+00:19:10,169 --> 00:19:12,139
+They released the video this morning.
+
+462
+00:19:12,171 --> 00:19:15,643
+Meet our demands and we will
+consider not destroying you.
+
+463
+00:19:15,678 --> 00:19:17,415
+Consider yourself warned.
+
+464
+00:19:18,750 --> 00:19:21,155
+This is, you know, a way
+to hold power accountable.
+
+465
+00:19:21,188 --> 00:19:24,896
+It can also be used to
+harass and to silence
+
+466
+00:19:24,929 --> 00:19:27,734
+and really as an instrument of fear.
+
+467
+00:19:27,767 --> 00:19:29,670
+<i>In an age where
+everyone is connected,</i>
+
+468
+00:19:29,704 --> 00:19:32,610
+<i>and privacy is becoming
+harder to protect,</i>
+
+469
+00:19:32,643 --> 00:19:35,815
+<i>"Mr. Robot" has shined a light
+on the risks and the realities</i>
+
+470
+00:19:35,849 --> 00:19:38,019
+<i>we all face every day.</i>
+
+471
+00:19:38,053 --> 00:19:40,157
+The writers have tapped
+into the paranoia
+
+472
+00:19:40,190 --> 00:19:42,126
+that we all now feel,
+
+473
+00:19:42,160 --> 00:19:45,934
+that all of our information
+is just ripe for the taking.
+
+474
+00:19:45,967 --> 00:19:48,037
+He got into my system, and he
+wants me to the put the CD
+
+475
+00:19:48,072 --> 00:19:49,542
+on one of the computers at work.
+
+476
+00:19:49,574 --> 00:19:50,575
+<i>Why does he want to do that?</i>
+
+477
+00:19:50,610 --> 00:19:52,647
+I don't know, Stella.
+
+478
+00:19:52,680 --> 00:19:54,150
+He didn't give me a full explanation.
+
+479
+00:19:54,182 --> 00:19:55,552
+<i>So he's got naked pics of me?</i>
+
+480
+00:19:55,585 --> 00:19:56,887
+Is that the only thing you're seriously
+
+481
+00:19:56,920 --> 00:19:58,290
+taking away from this conversation?
+
+482
+00:20:00,963 --> 00:20:02,399
+Hey, babe.
+
+483
+00:20:02,431 --> 00:20:06,005
+"Mr. Robot" is absolutely
+showing everyone
+
+484
+00:20:06,037 --> 00:20:10,345
+that we are living in
+a society right now
+
+485
+00:20:10,380 --> 00:20:13,485
+<i>in which secrets just don't exist.</i>
+
+486
+00:20:13,517 --> 00:20:17,124
+You maybe can't trust
+many people at all.
+
+487
+00:20:17,158 --> 00:20:19,195
+<i>I know she went through a
+divorce four years ago.</i>
+
+488
+00:20:19,228 --> 00:20:20,664
+<i>I know she was devastated by it</i>
+
+489
+00:20:20,698 --> 00:20:24,204
+<i>and has been dating losers
+on eHarmony ever since.</i>
+
+490
+00:20:24,237 --> 00:20:26,208
+<i>The more accessible we make ourselves,</i>
+
+491
+00:20:26,242 --> 00:20:28,111
+<i>the more people are
+probably going to be able</i>
+
+492
+00:20:28,146 --> 00:20:29,983
+<i>to take advantage of that.</i>
+
+493
+00:20:30,015 --> 00:20:33,455
+By the end of watching
+season one of "Mr. Robot,"
+
+494
+00:20:33,488 --> 00:20:37,895
+anyone who previously just
+typed away on a computer,
+
+495
+00:20:37,929 --> 00:20:40,501
+you're probably going about
+those transactions now
+
+496
+00:20:40,534 --> 00:20:44,242
+with just a little more caution,
+
+497
+00:20:44,275 --> 00:20:45,945
+<i>a little bit more of a realization</i>
+
+498
+00:20:45,978 --> 00:20:49,652
+<i>that that little lock symbol
+doesn't mean a whole lot.</i>
+
+499
+00:20:51,121 --> 00:20:53,726
+<i>Our personal
+information, our very identity,</i>
+
+500
+00:20:53,759 --> 00:20:56,898
+<i>is accessible to anyone, any time,</i>
+
+501
+00:20:56,931 --> 00:20:58,901
+<i>and we look to the
+government to protect us</i>
+
+502
+00:20:58,936 --> 00:21:00,472
+<i>from criminal activity,</i>
+
+503
+00:21:00,505 --> 00:21:03,010
+<i>but a recent case between
+Apple and the FBI,</i>
+
+504
+00:21:03,043 --> 00:21:05,448
+<i>who are trying to unlock a
+terrorist's cell phone,</i>
+
+505
+00:21:05,480 --> 00:21:07,919
+<i>brings up a gray area.</i>
+
+506
+00:21:07,952 --> 00:21:10,056
+<i>Should the government be given access</i>
+
+507
+00:21:10,090 --> 00:21:11,793
+<i>to your personal devices?</i>
+
+508
+00:21:11,826 --> 00:21:14,631
+Telecommunications companies
+have been cooperating
+
+509
+00:21:14,665 --> 00:21:16,835
+with law enforcement and
+intelligence agencies
+
+510
+00:21:16,869 --> 00:21:18,706
+for nearly a century.
+
+511
+00:21:18,739 --> 00:21:22,044
+And so you have the FBI saying
+
+512
+00:21:22,079 --> 00:21:25,284
+"Oh, we can't hack into your iPhone.
+
+513
+00:21:25,317 --> 00:21:27,756
+We need your help in doing it."
+
+514
+00:21:27,788 --> 00:21:30,860
+And Apple is saying,
+"Our stuff is so secure,
+
+515
+00:21:30,894 --> 00:21:34,568
+it's a danger to everybody
+if we help you out on this."
+
+516
+00:21:34,602 --> 00:21:37,239
+NSA and the intelligence
+community in general
+
+517
+00:21:37,273 --> 00:21:41,313
+is focused on getting
+intelligence wherever it can,
+
+518
+00:21:41,348 --> 00:21:45,021
+<i>by any means possible, so
+while they may be intending</i>
+
+519
+00:21:45,054 --> 00:21:47,959
+to target someone associated
+with a foreign government,
+
+520
+00:21:47,993 --> 00:21:50,296
+or someone that they
+suspect of terrorism,
+
+521
+00:21:50,330 --> 00:21:53,336
+they're collecting your
+communications to do so.
+
+522
+00:21:53,370 --> 00:21:54,872
+<i>You would ask any person on the street,</i>
+
+523
+00:21:54,906 --> 00:21:58,011
+<i>"Should the government be
+able to hack into a phone</i>
+
+524
+00:21:58,044 --> 00:22:00,483
+<i>to investigate a terrorism suspect?"</i>
+
+525
+00:22:00,515 --> 00:22:01,919
+and everybody would say yes.
+
+526
+00:22:01,951 --> 00:22:03,755
+And then, you ask them,
+"Well, should they be able
+
+527
+00:22:03,788 --> 00:22:05,892
+to hack into your phone?"
+and everybody would say no.
+
+528
+00:22:05,927 --> 00:22:07,663
+<i>We have to look really, really hard</i>
+
+529
+00:22:07,696 --> 00:22:09,833
+<i>at the kind of slippery
+slopes that we're building,</i>
+
+530
+00:22:09,867 --> 00:22:11,970
+<i>as far as how much access the government</i>
+
+531
+00:22:12,004 --> 00:22:17,214
+or any other corporation
+has into our data.
+
+532
+00:22:17,246 --> 00:22:20,252
+Any analyst at any time
+can target anyone,
+
+533
+00:22:20,285 --> 00:22:23,257
+from you or your accountant
+to a federal judge
+
+534
+00:22:23,291 --> 00:22:26,397
+to even the president, if
+I had a personal email.
+
+535
+00:22:26,430 --> 00:22:28,734
+Ben Franklin said it best:
+"Those who give up liberty
+
+536
+00:22:28,767 --> 00:22:31,339
+for security will have neither."
+
+537
+00:22:31,372 --> 00:22:33,744
+<i>: Coming up: from
+the tech to the techniques,</i>
+
+538
+00:22:33,776 --> 00:22:37,083
+<i>see how "Mr. Robot" is
+as real as it gets.</i>
+
+539
+00:22:37,117 --> 00:22:40,490
+Every single hack that we
+show on the show is possible.
+
+540
+00:22:40,524 --> 00:22:43,963
+<i>Plus, we'll show you
+what's in store for season two.</i>
+
+541
+00:22:43,996 --> 00:22:46,534
+Our infinite loop of insanity.
+
+542
+00:22:46,567 --> 00:22:48,471
+<i>This is "Mr. Robot dec0d3d."</i>
+
+543
+00:22:51,610 --> 00:22:53,747
+<i>"Mr. Robot's"
+authentic portrayal</i>
+
+544
+00:22:53,781 --> 00:22:58,556
+<i>of computer hacking has alerted us to
+the real-world dangers we all face.</i>
+
+545
+00:22:58,589 --> 00:23:02,797
+<i>Now we'll find out just
+how much we're at risk.</i>
+
+546
+00:23:02,830 --> 00:23:05,693
+<i>This is "Mr. Robot dec0d3d."</i>
+
+547
+00:23:05,836 --> 00:23:07,839
+Maybe we should consider rehab.
+
+548
+00:23:07,873 --> 00:23:09,143
+I'm not a junkie.
+
+549
+00:23:09,177 --> 00:23:10,446
+Then you'll need to prove it to me.
+
+550
+00:23:10,479 --> 00:23:13,183
+Submit to a bi-monthly
+drug test, voluntarily.
+
+551
+00:23:13,217 --> 00:23:15,521
+That's the only way that
+I'll recommend your release.
+
+552
+00:23:15,555 --> 00:23:17,424
+<i>This is William Highsmith.</i>
+
+553
+00:23:17,459 --> 00:23:19,027
+<i>He's not only the head of
+the IT department here,</i>
+
+554
+00:23:19,060 --> 00:23:21,230
+<i>he's also an idiot.</i>
+
+555
+00:23:21,265 --> 00:23:23,402
+<i>He uses useless virus
+scans, dated servers,</i>
+
+556
+00:23:23,435 --> 00:23:27,042
+<i>and security software
+that runs on Windows 98.</i>
+
+557
+00:23:27,076 --> 00:23:28,546
+<i>One of the reasons why I made this place</i>
+
+558
+00:23:28,578 --> 00:23:31,383
+<i>my primary care facility.</i>
+
+559
+00:23:31,416 --> 00:23:33,119
+<i>I can make my health records look like</i>
+
+560
+00:23:33,153 --> 00:23:36,559
+<i>every other obedient zombie out there.</i>
+
+561
+00:23:36,594 --> 00:23:38,263
+<i>"Mr. Robot's" popularity</i>
+
+562
+00:23:38,296 --> 00:23:40,333
+<i>with many of its most fervent fans</i>
+
+563
+00:23:40,366 --> 00:23:42,971
+<i>can largely be attributed
+to its realistic portrayal</i>
+
+564
+00:23:43,005 --> 00:23:45,075
+<i>of computer technology.</i>
+
+565
+00:23:45,108 --> 00:23:48,547
+<i>That's the purview of technical
+consultant Kor Adana.</i>
+
+566
+00:23:48,582 --> 00:23:49,818
+I'm involved in every aspect
+
+567
+00:23:49,851 --> 00:23:51,354
+of all the tech that
+you see on the show.
+
+568
+00:23:51,386 --> 00:23:54,124
+<i>I'm involved in pitching
+the ideas of the hacks</i>
+
+569
+00:23:54,159 --> 00:23:56,330
+<i>that we see fsociety being a part of.</i>
+
+570
+00:23:56,364 --> 00:23:58,534
+It's not your typical
+tech consulting gig.
+
+571
+00:23:58,566 --> 00:24:01,873
+Too many movies or TV shows
+
+572
+00:24:01,906 --> 00:24:04,210
+try to make hacking just magic,
+
+573
+00:24:04,243 --> 00:24:05,779
+and they don't explain it.
+
+574
+00:24:05,814 --> 00:24:07,417
+<i>It's just something that
+you can't understand,</i>
+
+575
+00:24:07,450 --> 00:24:09,621
+<i>and because of that,
+it's some superpower.</i>
+
+576
+00:24:09,654 --> 00:24:11,657
+I think one of the greatest
+compliments we can get
+
+577
+00:24:11,691 --> 00:24:15,131
+is just how realistic and
+authentic the show actually
+
+578
+00:24:15,163 --> 00:24:17,268
+<i>portrays what's really
+going on out there.</i>
+
+579
+00:24:17,302 --> 00:24:18,938
+One of the things that's
+so great about the show
+
+580
+00:24:18,971 --> 00:24:21,410
+is that you'll actually
+learn a few things.
+
+581
+00:24:21,442 --> 00:24:24,481
+This is bad, worst DDoS
+attack I've ever seen.
+
+582
+00:24:24,515 --> 00:24:27,520
+<i>DDoS attacks are a bunch of
+hackers getting together</i>
+
+583
+00:24:27,554 --> 00:24:30,526
+to overload a system to
+take it down for, you know,
+
+584
+00:24:30,559 --> 00:24:32,329
+a temporary amount of time.
+
+585
+00:24:32,363 --> 00:24:33,966
+<i>It's a flood of traffic.</i>
+
+586
+00:24:33,999 --> 00:24:36,201
+<i>We're sending signals over wires,</i>
+
+587
+00:24:36,236 --> 00:24:38,507
+and if you have too many
+signals at the same time,
+
+588
+00:24:38,540 --> 00:24:40,009
+the real signal can't get through.
+
+589
+00:24:40,044 --> 00:24:42,381
+Tried to reboot the servers, but
+they're not coming back up.
+
+590
+00:24:42,414 --> 00:24:43,951
+Dude, someone is straight
+up finger blasting
+
+591
+00:24:43,985 --> 00:24:45,254
+their entire network right now.
+
+592
+00:24:45,287 --> 00:24:47,991
+I've learned quite a
+bit, maybe too much.
+
+593
+00:24:48,025 --> 00:24:52,733
+It's kind of scary, mm, what
+I'm capable of these days.
+
+594
+00:24:52,767 --> 00:24:54,769
+<i>For the
+creators and fans alike,</i>
+
+595
+00:24:54,804 --> 00:24:56,708
+<i>there's an appreciation that the realism</i>
+
+596
+00:24:56,741 --> 00:24:58,043
+<i>lies in the details.</i>
+
+597
+00:24:58,076 --> 00:25:00,749
+People are screen-capturing the images
+
+598
+00:25:00,781 --> 00:25:02,217
+on the computer screens,
+
+599
+00:25:02,250 --> 00:25:04,520
+and looking at them to
+see if they're real.
+
+600
+00:25:04,555 --> 00:25:07,760
+<i>And they are real, and
+that takes a lot of time.</i>
+
+601
+00:25:07,795 --> 00:25:09,465
+<i>One screenshot that was shown, I think,</i>
+
+602
+00:25:09,499 --> 00:25:12,871
+<i>for less than a second took
+somebody over ten hours of work</i>
+
+603
+00:25:12,903 --> 00:25:15,909
+to make that an authentic
+load-up sequence.
+
+604
+00:25:15,942 --> 00:25:19,215
+All of the screens are
+designed, essentially, by me,
+
+605
+00:25:19,249 --> 00:25:21,654
+and I work with animators
+to achieve those
+
+606
+00:25:21,688 --> 00:25:24,559
+<i>and make sure that they're
+technically accurate.</i>
+
+607
+00:25:24,592 --> 00:25:26,329
+<i>I think details like that</i>
+
+608
+00:25:26,363 --> 00:25:28,868
+really enriches and deepens the world.
+
+609
+00:25:28,901 --> 00:25:31,506
+<i>It makes the show this
+almost alternate reality</i>
+
+610
+00:25:31,538 --> 00:25:34,877
+that's not too detached from our own.
+
+611
+00:25:34,912 --> 00:25:36,547
+<i>More than just imagery,</i>
+
+612
+00:25:36,581 --> 00:25:39,887
+<i>"Mr. Robot's" realism extends
+to the schemes and methods</i>
+
+613
+00:25:39,921 --> 00:25:42,926
+<i>that are currently in use
+by the hacking community.</i>
+
+614
+00:25:42,960 --> 00:25:46,098
+<i>Their ability to infiltrate and
+alter a physical environment</i>
+
+615
+00:25:46,133 --> 00:25:48,638
+<i>was illustrated by the
+Steel Mountain hack,</i>
+
+616
+00:25:48,671 --> 00:25:50,673
+<i>a scenario that closely paralleled</i>
+
+617
+00:25:50,707 --> 00:25:55,181
+<i>one of history's most famous
+cyber attacks, Stuxnet.</i>
+
+618
+00:25:55,216 --> 00:25:58,688
+The US and Israel had a joint operation
+
+619
+00:25:58,721 --> 00:26:03,062
+<i>where they created an
+amazingly complex program</i>
+
+620
+00:26:03,096 --> 00:26:05,634
+that hacked into the computers
+
+621
+00:26:05,668 --> 00:26:08,407
+<i>controlling the speed with which</i>
+
+622
+00:26:08,441 --> 00:26:11,579
+<i>centrifuges were spinning
+in the plant in Iran</i>
+
+623
+00:26:11,613 --> 00:26:13,181
+<i>that was enriching uranium.</i>
+
+624
+00:26:13,216 --> 00:26:16,989
+And about half of Iran's
+centrifuges were destroyed.
+
+625
+00:26:17,022 --> 00:26:21,597
+It probably slowed down their
+nuclear program by three years.
+
+626
+00:26:21,632 --> 00:26:24,070
+To think about the steps
+that are required
+
+627
+00:26:24,103 --> 00:26:26,841
+<i>to plan that and then
+causing kinetic damage,</i>
+
+628
+00:26:26,874 --> 00:26:28,177
+is incredible.
+
+629
+00:26:28,210 --> 00:26:29,912
+He wants to hack Steel Mountain's
+
+630
+00:26:29,947 --> 00:26:31,650
+climate control system,
+
+631
+00:26:31,682 --> 00:26:33,452
+raise the facility's heat high enough
+
+632
+00:26:33,487 --> 00:26:36,057
+to destroy all the tapes.
+
+633
+00:26:36,091 --> 00:26:38,061
+And you think sticking
+this behind the thermostat
+
+634
+00:26:38,095 --> 00:26:39,096
+will do all that?
+
+635
+00:26:39,131 --> 00:26:41,768
+From a authenticity standpoint,
+
+636
+00:26:41,802 --> 00:26:44,006
+if you wanted to hack
+a major corporation,
+
+637
+00:26:44,039 --> 00:26:46,978
+<i>they would have off-site tape backups</i>
+
+638
+00:26:47,010 --> 00:26:50,316
+at a location like Steel Mountain.
+
+639
+00:26:50,351 --> 00:26:53,056
+There. Deep in the Adirondacks.
+
+640
+00:26:53,088 --> 00:26:56,394
+In 145-plus acre former limestone mine.
+
+641
+00:26:56,429 --> 00:27:00,937
+3-ton steel gates, 24/7 armed guards,
+
+642
+00:27:00,970 --> 00:27:03,776
+closed circuit cameras, NOC staffing.
+
+643
+00:27:03,808 --> 00:27:06,314
+A fair amount of the plots
+and techniques and the hacks
+
+644
+00:27:06,347 --> 00:27:07,983
+and the approaches in "Mr. Robot"
+
+645
+00:27:08,017 --> 00:27:09,320
+are actually plausible.
+
+646
+00:27:09,353 --> 00:27:10,321
+The reason they're plausible:
+
+647
+00:27:10,354 --> 00:27:11,824
+it's 90% preparation
+
+648
+00:27:11,856 --> 00:27:13,492
+and only 10% execution.
+
+649
+00:27:13,527 --> 00:27:15,497
+<i>There's a fair amount
+of understanding how</i>
+
+650
+00:27:15,529 --> 00:27:16,966
+<i>the other systems and the targets</i>
+
+651
+00:27:17,000 --> 00:27:18,703
+<i>that you're focusing on work,</i>
+
+652
+00:27:18,737 --> 00:27:21,342
+<i>and then having your, you know,</i>
+
+653
+00:27:21,374 --> 00:27:23,345
+<i>system and your hack ready</i>
+
+654
+00:27:23,379 --> 00:27:25,917
+so that you can execute it, you
+know, when the time is right.
+
+655
+00:27:25,950 --> 00:27:29,221
+All we need is one security flaw.
+
+656
+00:27:29,256 --> 00:27:32,729
+Look at this place, man. It
+was built not to have any.
+
+657
+00:27:34,566 --> 00:27:38,673
+I see about... six walking around.
+
+658
+00:27:38,707 --> 00:27:40,677
+<i>Social engineering
+is one example of</i>
+
+659
+00:27:40,710 --> 00:27:42,514
+<i>a real-world hacking method,</i>
+
+660
+00:27:42,547 --> 00:27:45,451
+<i>and "Mr. Robot" illustrates
+it to perfection.</i>
+
+661
+00:27:45,486 --> 00:27:48,458
+The social engineering
+component of hacking, I think,
+
+662
+00:27:48,490 --> 00:27:51,696
+is one of the most
+important aspects of it.
+
+663
+00:27:51,730 --> 00:27:55,371
+<i>Taking advantage of that
+human element of security.</i>
+
+664
+00:27:55,403 --> 00:27:57,842
+Bill Harper is our first exploit.
+
+665
+00:27:57,874 --> 00:27:59,178
+He isn't gonna give the
+search much scrutiny.
+
+666
+00:27:59,210 --> 00:28:00,378
+He'll get us to Level 1,
+
+667
+00:28:00,412 --> 00:28:01,782
+but Bill is not gonna be
+able to get us to Level 2.
+
+668
+00:28:01,816 --> 00:28:03,787
+And we need to get to Level 2.
+
+669
+00:28:03,819 --> 00:28:06,457
+You're gonna ask to speak
+to his supervisor, Wendy.
+
+670
+00:28:06,491 --> 00:28:08,528
+She'll get us to exactly
+where we need to be.
+
+671
+00:28:08,562 --> 00:28:10,732
+Then we'll be able to get
+rid of her from the van.
+
+672
+00:28:10,766 --> 00:28:12,936
+After that, you connect the Raspberry Pi
+
+673
+00:28:12,970 --> 00:28:15,408
+to the climate control system,
+and Bob's your uncle.
+
+674
+00:28:15,441 --> 00:28:18,346
+<i>It doesn't matter how
+hardened your system is,</i>
+
+675
+00:28:18,381 --> 00:28:20,584
+<i>how great your security policies are,</i>
+
+676
+00:28:20,617 --> 00:28:22,787
+what kind of software you
+have on your system.
+
+677
+00:28:22,820 --> 00:28:24,957
+There's always gonna be a human
+
+678
+00:28:24,991 --> 00:28:27,629
+that has access to information
+that's important.
+
+679
+00:28:27,663 --> 00:28:31,471
+And you can always find a way
+to manipulate that person.
+
+680
+00:28:31,505 --> 00:28:32,774
+People are all just people, right?
+
+681
+00:28:32,806 --> 00:28:34,343
+When it gets down to it,
+everyone's the same.
+
+682
+00:28:34,375 --> 00:28:35,478
+They love something.
+
+683
+00:28:35,511 --> 00:28:36,713
+They want something.
+They fear something.
+
+684
+00:28:36,747 --> 00:28:38,182
+Specifics help, but
+specifics don't change
+
+685
+00:28:38,216 --> 00:28:39,686
+the way that everyone is vulnerable.
+
+686
+00:28:39,720 --> 00:28:44,127
+It just changes the way that we
+access those vulnerabilities.
+
+687
+00:28:44,161 --> 00:28:45,729
+Great example of this is
+
+688
+00:28:45,764 --> 00:28:49,338
+<i>Elliot impersonating a
+multi-million-dollar CEO</i>
+
+689
+00:28:49,371 --> 00:28:50,573
+to get through the door.
+
+690
+00:28:50,605 --> 00:28:53,711
+I really think you should look me up.
+
+691
+00:28:53,746 --> 00:28:55,883
+It... it just doesn't work like that.
+
+692
+00:28:55,915 --> 00:28:57,251
+I'm sorry, sir.
+
+693
+00:28:57,286 --> 00:29:00,258
+<i>You impersonate someone
+that is in need of</i>
+
+694
+00:29:00,290 --> 00:29:01,893
+<i>some kind of help or assistance,</i>
+
+695
+00:29:01,928 --> 00:29:03,898
+most of the time, they'll
+want to help you.
+
+696
+00:29:03,931 --> 00:29:05,299
+Mr. Sepiol?
+
+697
+00:29:05,333 --> 00:29:06,569
+Mr. Sepiol!
+
+698
+00:29:06,603 --> 00:29:08,406
+I have some good news.
+
+699
+00:29:08,439 --> 00:29:11,411
+<i>And that's why Bill Harper
+is a perfect exploit,</i>
+
+700
+00:29:11,444 --> 00:29:13,781
+<i>desperate enough for the
+business to break protocol</i>
+
+701
+00:29:13,816 --> 00:29:16,854
+<i>and let me in.</i>
+
+702
+00:29:16,887 --> 00:29:18,924
+<i>Lonely enough to break.</i>
+
+703
+00:29:18,959 --> 00:29:20,260
+They won't even know
+that they're giving you
+
+704
+00:29:20,294 --> 00:29:22,098
+some kind of information
+that will help you
+
+705
+00:29:22,132 --> 00:29:24,503
+hack their system later.
+
+706
+00:29:24,536 --> 00:29:26,573
+But it happens all the time.
+
+707
+00:29:26,605 --> 00:29:28,942
+<i>Coming up on "Mr.
+Robot dec0d3d,"</i>
+
+708
+00:29:28,977 --> 00:29:31,582
+<i>we delve into the ethics of hacktivism.</i>
+
+709
+00:29:31,615 --> 00:29:33,585
+If you feel that there is injustice,
+
+710
+00:29:33,618 --> 00:29:35,721
+sometimes the only way to deal with it
+
+711
+00:29:35,756 --> 00:29:38,761
+is to out-monster the monster.
+
+712
+00:29:38,795 --> 00:29:40,265
+<i>Plus, we'll also discuss</i>
+
+713
+00:29:40,297 --> 00:29:42,268
+<i>what's in store for season two.</i>
+
+714
+00:29:42,302 --> 00:29:44,406
+<i>This is "Mr. Robot dec0d3d."</i>
+
+715
+00:29:46,500 --> 00:29:48,637
+<i>"Mr. Robot's"
+authentic portrayal</i>
+
+716
+00:29:48,672 --> 00:29:52,176
+<i>of computer hacking has alerted us to
+the real-world dangers we all face.</i>
+
+717
+00:29:52,211 --> 00:29:56,184
+<i>Now, we'll find out just
+how much we're at risk.</i>
+
+718
+00:29:56,218 --> 00:29:59,991
+<i>This is "Mr. Robot dec0d3d."</i>
+
+719
+00:30:00,345 --> 00:30:02,250
+You're blowing up a gas pipeline.
+
+720
+00:30:02,275 --> 00:30:04,625
+The world is a dangerous place, Elliot.
+
+721
+00:30:04,650 --> 00:30:06,153
+Not because of those who do evil,
+
+722
+00:30:06,186 --> 00:30:08,791
+but because of those who
+look on and do nothing.
+
+723
+00:30:08,824 --> 00:30:10,527
+This is war. People will die.
+
+724
+00:30:10,561 --> 00:30:12,698
+<i>C'est la mort.</i>
+
+725
+00:30:12,733 --> 00:30:15,037
+I'm not killing anyone.
+
+726
+00:30:17,293 --> 00:30:19,263
+Tell me one thing, Elliot.
+
+727
+00:30:19,296 --> 00:30:22,767
+Are you a one or a zero?
+
+728
+00:30:22,802 --> 00:30:24,906
+That's the question you
+have to ask yourself.
+
+729
+00:30:24,940 --> 00:30:26,910
+Are you a yes or a no?
+
+730
+00:30:26,943 --> 00:30:29,481
+Are you gonna act or not?
+
+731
+00:30:29,515 --> 00:30:34,658
+Hacktivism is the act of
+compromising a computer system
+
+732
+00:30:34,690 --> 00:30:38,363
+or a network with a
+political agenda in mind.
+
+733
+00:30:38,398 --> 00:30:40,969
+<i>One of the reasons for "Mr.
+Robot's" huge success</i>
+
+734
+00:30:41,002 --> 00:30:43,005
+<i>is that it speaks to the
+current generation's</i>
+
+735
+00:30:43,038 --> 00:30:45,075
+<i>distrust of our corporate culture</i>
+
+736
+00:30:45,110 --> 00:30:48,082
+<i>and to their frustration
+with the status quo.</i>
+
+737
+00:30:48,115 --> 00:30:52,324
+<i>But is taking matters into our
+own hands ever justified?</i>
+
+738
+00:30:52,356 --> 00:30:54,594
+In many cases, hacktivism
+takes the form of
+
+739
+00:30:54,627 --> 00:30:56,663
+anti-establishment points of view.
+
+740
+00:30:56,698 --> 00:30:59,769
+<i>The governments of the world
+and their corporate masters</i>
+
+741
+00:30:59,804 --> 00:31:02,409
+<i>do not want us to speak. Why?</i>
+
+742
+00:31:02,441 --> 00:31:03,979
+<i>Because we unlock truths.</i>
+
+743
+00:31:04,011 --> 00:31:05,513
+<i>We expose villains.</i>
+
+744
+00:31:05,547 --> 00:31:08,186
+<i>If you have any interest in
+waking from your slumber</i>
+
+745
+00:31:08,219 --> 00:31:11,325
+<i>and retrieving lost,
+damaged, or stolen memory,</i>
+
+746
+00:31:11,357 --> 00:31:12,760
+<i>we are here for you.</i>
+
+747
+00:31:12,795 --> 00:31:14,064
+<i>We have your back.</i>
+
+748
+00:31:14,096 --> 00:31:16,868
+<i>We are fsociety.</i>
+
+749
+00:31:16,902 --> 00:31:19,707
+A lot of fsociety and
+the mask is obviously
+
+750
+00:31:19,740 --> 00:31:21,610
+<i>evocative of Anonymous</i>
+
+751
+00:31:21,643 --> 00:31:23,113
+<i>and the Guy Fawkes mask</i>
+
+752
+00:31:23,146 --> 00:31:26,118
+<i>that a lot of people in
+Anonymous started to wear</i>
+
+753
+00:31:26,152 --> 00:31:27,921
+back when they had
+their campaign against
+
+754
+00:31:27,956 --> 00:31:30,260
+the Church of Scientology.
+
+755
+00:31:30,293 --> 00:31:32,864
+<i>Their declaration of war on Scientology</i>
+
+756
+00:31:32,899 --> 00:31:35,102
+definitely served as an inspiration
+
+757
+00:31:35,135 --> 00:31:38,508
+for some of the content that
+you see on "Mr. Robot."
+
+758
+00:31:38,542 --> 00:31:40,913
+<i>Corporate greed is a trickle-down desire</i>
+
+759
+00:31:40,947 --> 00:31:43,319
+<i>that reaches even the
+bottom of the food chain.</i>
+
+760
+00:31:43,352 --> 00:31:45,188
+<i>And for what? Wealth? Power?</i>
+
+761
+00:31:45,220 --> 00:31:46,355
+What the shit?
+
+762
+00:31:46,390 --> 00:31:47,959
+<i>It's a pathetic fable,</i>
+
+763
+00:31:47,991 --> 00:31:50,431
+<i>and you, Allsafe, are a defender of...</i>
+
+764
+00:31:50,465 --> 00:31:52,401
+Holy shit. fsociety knows us.
+
+765
+00:31:52,433 --> 00:31:53,737
+<i>But your sweet dream is over</i>
+
+766
+00:31:53,769 --> 00:31:56,407
+<i>and your nightmare is about to begin.</i>
+
+767
+00:31:56,441 --> 00:31:59,780
+<i>Gideon Goddard, you are a lackey</i>
+
+768
+00:31:59,815 --> 00:32:01,250
+<i>to your corporate overlords...</i>
+
+769
+00:32:01,284 --> 00:32:02,821
+Someone shut this off.
+
+770
+00:32:02,854 --> 00:32:05,525
+<i>Serving them, slave to master.</i>
+
+771
+00:32:05,557 --> 00:32:07,461
+<i>We are exposing your role to your world,</i>
+
+772
+00:32:07,496 --> 00:32:11,136
+<i>and the world is very angry.</i>
+
+773
+00:32:11,169 --> 00:32:14,041
+I have a very anti-corporate,
+anti-establishment spirit
+
+774
+00:32:14,075 --> 00:32:17,213
+in me, and as much as I
+appreciate Occupy Wall Street,
+
+775
+00:32:17,247 --> 00:32:20,385
+I think as an adult I
+want to use that anger
+
+776
+00:32:20,420 --> 00:32:23,792
+to actually do something
+constructive and positive.
+
+777
+00:32:23,825 --> 00:32:26,530
+And I think, like, for
+example, the Arab Spring
+
+778
+00:32:26,564 --> 00:32:28,167
+<i>is a good example where</i>
+
+779
+00:32:28,200 --> 00:32:30,838
+<i>they really kind of got empowered</i>
+
+780
+00:32:30,872 --> 00:32:32,007
+<i>through social media, actually,</i>
+
+781
+00:32:32,040 --> 00:32:33,008
+<i>through technology,</i>
+
+782
+00:32:33,043 --> 00:32:35,013
+and really made change.
+
+783
+00:32:36,583 --> 00:32:39,889
+<i>The Arab Spring is a
+really good example of</i>
+
+784
+00:32:39,922 --> 00:32:41,726
+<i>security in action.</i>
+
+785
+00:32:41,758 --> 00:32:44,229
+If you're an activist in Bahrain,
+
+786
+00:32:44,263 --> 00:32:46,835
+you need your email, you
+need your Facebook account
+
+787
+00:32:46,867 --> 00:32:49,439
+to be secure, because if the government,
+
+788
+00:32:49,473 --> 00:32:51,609
+which controls all the
+Internet infrastructure,
+
+789
+00:32:51,642 --> 00:32:53,779
+<i>can get in, that's it, you're done.</i>
+
+790
+00:32:53,814 --> 00:32:54,916
+They're gonna take... come to your house
+
+791
+00:32:54,950 --> 00:32:56,152
+and put a bag over your head
+
+792
+00:32:56,184 --> 00:32:57,988
+and no one will ever see you again.
+
+793
+00:32:58,021 --> 00:32:59,190
+Now whatever it is you
+think you're doing
+
+794
+00:32:59,225 --> 00:33:00,961
+freeing the world, freeing the masses,
+
+795
+00:33:00,994 --> 00:33:02,964
+the guys I work for,
+they ain't motivated by
+
+796
+00:33:02,998 --> 00:33:04,601
+"Kumbaya" shit like that.
+
+797
+00:33:04,633 --> 00:33:06,170
+<i>Right and wrong is relative,</i>
+
+798
+00:33:06,203 --> 00:33:10,044
+and it comes down to your own ideology,
+
+799
+00:33:10,077 --> 00:33:11,681
+your own moral compass,
+
+800
+00:33:11,713 --> 00:33:15,320
+and whether or not you feel
+passionate enough about that
+
+801
+00:33:15,354 --> 00:33:18,727
+to act on it.
+
+802
+00:33:18,759 --> 00:33:22,132
+How come I'm not in trouble?
+
+803
+00:33:25,773 --> 00:33:28,512
+Even though what you did was wrong,
+
+804
+00:33:28,546 --> 00:33:32,719
+you're still a good kid.
+
+805
+00:33:32,752 --> 00:33:34,556
+And that guy was a prick.
+
+806
+00:33:34,590 --> 00:33:36,961
+Sometimes that matters more.
+
+807
+00:33:36,994 --> 00:33:39,031
+I think the reason it
+thematically resonates
+
+808
+00:33:39,065 --> 00:33:41,570
+with people when you're watching
+a show like "Mr. Robot,"
+
+809
+00:33:41,603 --> 00:33:43,105
+if the antagonist is strong enough
+
+810
+00:33:43,139 --> 00:33:45,242
+or if you feel that there is injustice
+
+811
+00:33:45,276 --> 00:33:46,378
+coming from the antagonist,
+
+812
+00:33:46,412 --> 00:33:49,249
+if there's an injustice in the world...
+
+813
+00:33:49,283 --> 00:33:51,554
+sometimes the only way to deal with it
+
+814
+00:33:51,587 --> 00:33:54,892
+is to out-monster the monster.
+
+815
+00:33:54,927 --> 00:33:56,830
+<i>Fernando Vera, Shayla's supplier</i>
+
+816
+00:33:56,863 --> 00:33:59,035
+<i>and one of the worst human
+beings I've ever hacked.</i>
+
+817
+00:33:59,068 --> 00:34:00,537
+<i>He does all his drug transactions</i>
+
+818
+00:34:00,571 --> 00:34:03,376
+<i>through emails, IMs, Twitter.</i>
+
+819
+00:34:03,409 --> 00:34:06,214
+<i>He can't be allowed to exist anymore.</i>
+
+820
+00:34:06,247 --> 00:34:08,251
+<i>When you break down
+motivations of hackers,</i>
+
+821
+00:34:08,285 --> 00:34:11,089
+<i>it's money, ideology, coercion, ego,</i>
+
+822
+00:34:11,123 --> 00:34:13,227
+or revenge, and sometimes
+criss and cross.
+
+823
+00:34:13,261 --> 00:34:14,430
+<i>In "Mr. Robot,"</i>
+
+824
+00:34:14,464 --> 00:34:16,299
+<i>Elliot's ideology is founded on</i>
+
+825
+00:34:16,332 --> 00:34:19,538
+<i>his desire to avenge his father's death.</i>
+
+826
+00:34:19,574 --> 00:34:22,079
+This isn't even about my revolution.
+
+827
+00:34:22,111 --> 00:34:24,013
+This is more than that for you.
+
+828
+00:34:24,047 --> 00:34:26,986
+This is about how those bastards
+slowly killed your father
+
+829
+00:34:27,021 --> 00:34:28,523
+and how you wished he'd
+done something about it,
+
+830
+00:34:28,555 --> 00:34:29,523
+but he didn't
+
+831
+00:34:29,556 --> 00:34:31,526
+because he was a zero,
+
+832
+00:34:31,560 --> 00:34:33,464
+just like you're being right now.
+
+833
+00:34:33,498 --> 00:34:35,636
+It's just a basic question of, you know,
+
+834
+00:34:35,669 --> 00:34:38,941
+when does the good outweigh
+the bad and vice versa?
+
+835
+00:34:38,975 --> 00:34:42,214
+You know, the very massive
+ethical questions
+
+836
+00:34:42,247 --> 00:34:44,183
+that this show will pose.
+
+837
+00:34:44,218 --> 00:34:47,859
+<i>We hope that you will
+forge a better world,</i>
+
+838
+00:34:47,892 --> 00:34:51,230
+<i>a world that belongs to us again!</i>
+
+839
+00:34:52,801 --> 00:34:56,273
+We'll see if Elliot and
+everybody in fsociety...
+
+840
+00:34:56,306 --> 00:34:58,879
+are saving the world or destroying it.
+
+841
+00:34:58,912 --> 00:35:01,248
+<i>Coming up, could
+a small group of hackers</i>
+
+842
+00:35:01,283 --> 00:35:03,754
+<i>actually change the world overnight?</i>
+
+843
+00:35:03,788 --> 00:35:06,025
+It's not a fantasy. It's
+not science fiction.
+
+844
+00:35:06,059 --> 00:35:09,398
+<i>Plus, we'll show you
+what's in store for season two.</i>
+
+845
+00:35:09,430 --> 00:35:12,235
+Amen, amen, amen!
+
+846
+00:35:12,271 --> 00:35:14,910
+<i>This is "Mr. Robot dec0d3d."</i>
+
+847
+00:35:16,880 --> 00:35:21,611
+<i>Evil Corp, you have been owned.</i>
+
+848
+00:35:21,798 --> 00:35:25,237
+<i>We at fsociety will smile</i>
+
+849
+00:35:25,271 --> 00:35:29,512
+<i>as we watch you and your dark soul die.</i>
+
+850
+00:35:30,664 --> 00:35:32,642
+<i>USA Network's "Mr. Robot" is</i>
+
+851
+00:35:32,677 --> 00:35:33,979
+<i>groundbreaking television,</i>
+
+852
+00:35:34,012 --> 00:35:35,782
+<i>with cutting edge storylines,</i>
+
+853
+00:35:36,020 --> 00:35:37,516
+<i>detailed world building,</i>
+
+854
+00:35:37,540 --> 00:35:40,311
+<i>and uncanny parallels to current events.</i>
+
+855
+00:35:40,345 --> 00:35:42,548
+<i>Certainly a subject
+matter that has become</i>
+
+856
+00:35:42,581 --> 00:35:46,522
+more and more relevant as...
+as the year has gone on.
+
+857
+00:35:46,557 --> 00:35:48,827
+<i>Markets in Asia and Europe
+are tumbling dramatically.</i>
+
+858
+00:35:48,861 --> 00:35:50,631
+<i>Numerous governments
+in the European Union</i>
+
+859
+00:35:50,664 --> 00:35:51,934
+<i>are now in a free-for-all.</i>
+
+860
+00:35:51,968 --> 00:35:53,303
+<i>So this is what our evolution</i>
+
+861
+00:35:53,336 --> 00:35:55,740
+<i>Looks like: a simple program,</i>
+
+862
+00:35:55,774 --> 00:35:58,479
+<i>a worm that can make data unreadable.</i>
+
+863
+00:35:58,513 --> 00:36:01,685
+<i>Is that really all it
+takes to kill the world?</i>
+
+864
+00:36:01,718 --> 00:36:03,287
+<i>But could the fsociety hack</i>
+
+865
+00:36:03,321 --> 00:36:05,727
+<i>portrayed in the show actually happen?</i>
+
+866
+00:36:05,760 --> 00:36:08,531
+<i>What would the fallout of
+such a hack look like?</i>
+
+867
+00:36:08,564 --> 00:36:10,935
+So we have plenty of companies
+that kind of fall into that
+
+868
+00:36:10,968 --> 00:36:13,272
+"too big to fail" moniker.
+
+869
+00:36:13,307 --> 00:36:15,276
+<i>It's kind of scary to think about</i>
+
+870
+00:36:15,310 --> 00:36:17,749
+what the impact of a
+destructive hack against them
+
+871
+00:36:17,781 --> 00:36:19,417
+could have on... on society.
+
+872
+00:36:19,450 --> 00:36:24,327
+You could wreck large
+sectors of the power grid.
+
+873
+00:36:24,361 --> 00:36:27,935
+<i>You could take down a whole bank.</i>
+
+874
+00:36:27,968 --> 00:36:30,071
+<i>You could do a lot of damage.</i>
+
+875
+00:36:30,104 --> 00:36:32,341
+There are some key vulnerabilities
+
+876
+00:36:32,374 --> 00:36:33,844
+within our national infrastructure.
+
+877
+00:36:33,879 --> 00:36:36,182
+<i>People could actually take
+the entire Internet down.</i>
+
+878
+00:36:36,216 --> 00:36:39,355
+A lone hacker really
+can do immense damage,
+
+879
+00:36:39,388 --> 00:36:40,824
+or they can do immense good.
+
+880
+00:36:40,858 --> 00:36:42,660
+It's just all in the motivation.
+
+881
+00:36:42,693 --> 00:36:43,963
+I think it'd be possible.
+
+882
+00:36:43,997 --> 00:36:46,167
+Are there ramifications to that?
+
+883
+00:36:46,200 --> 00:36:47,436
+Of course.
+
+884
+00:36:47,470 --> 00:36:48,872
+<i>Are there ramifications to that</i>
+
+885
+00:36:48,905 --> 00:36:51,743
+<i>that fsociety and Elliot
+didn't even think of?</i>
+
+886
+00:36:51,778 --> 00:36:53,982
+<i>Definitely. And we're
+gonna get into that</i>
+
+887
+00:36:54,015 --> 00:36:54,983
+<i>in season two.</i>
+
+888
+00:36:55,017 --> 00:36:55,985
+There's gonna be, I bet,
+
+889
+00:36:56,019 --> 00:36:57,522
+a lot of people coming for them.
+
+890
+00:36:57,555 --> 00:36:59,525
+You know, law enforcement's
+gonna be coming in season two.
+
+891
+00:36:59,559 --> 00:37:00,727
+It has to.
+
+892
+00:37:00,760 --> 00:37:02,363
+<i>Season two of "Mr.
+Robot" will</i>
+
+893
+00:37:02,397 --> 00:37:04,568
+<i>go deeper into this amazing world,</i>
+
+894
+00:37:04,602 --> 00:37:06,939
+<i>as the characters deal
+with the repercussions of</i>
+
+895
+00:37:06,972 --> 00:37:08,408
+<i>the Evil Corp hack.</i>
+
+896
+00:37:08,441 --> 00:37:09,877
+So we come back in season two
+
+897
+00:37:09,910 --> 00:37:11,280
+and the hack has gone through
+
+898
+00:37:11,314 --> 00:37:13,139
+and kind of destroyed the world.
+
+899
+00:37:13,211 --> 00:37:14,648
+<i>The FBI announced today,</i>
+
+900
+00:37:14,680 --> 00:37:16,318
+<i>and we can confirm that</i>
+
+901
+00:37:16,352 --> 00:37:19,959
+<i>fsociety engaged in this attack.</i>
+
+902
+00:37:19,992 --> 00:37:22,062
+Now that Elliot knows who Mr. Robot is,
+
+903
+00:37:22,095 --> 00:37:24,766
+it's very different from last year.
+
+904
+00:37:24,800 --> 00:37:27,071
+<i>What he's trying to do at all costs</i>
+
+905
+00:37:27,104 --> 00:37:30,077
+<i>is to remove him from his world.</i>
+
+906
+00:37:30,111 --> 00:37:32,381
+In the second season, the
+story really picks up
+
+907
+00:37:32,414 --> 00:37:34,050
+and... and moves forward.
+
+908
+00:37:34,084 --> 00:37:35,687
+You know, we set up all the characters,
+
+909
+00:37:35,720 --> 00:37:38,024
+<i>and now really in the second
+season we're really kind of</i>
+
+910
+00:37:38,057 --> 00:37:39,960
+<i>letting all those characters run wild.</i>
+
+911
+00:37:39,995 --> 00:37:42,967
+We're really going into
+an ensemble sort of
+
+912
+00:37:42,999 --> 00:37:44,269
+version of the show.
+
+913
+00:37:44,303 --> 00:37:46,273
+<i>We're in four or five different worlds</i>
+
+914
+00:37:46,307 --> 00:37:47,542
+<i>at the same time.</i>
+
+915
+00:37:47,575 --> 00:37:50,547
+Just watching that
+struggle and seeing people
+
+916
+00:37:50,581 --> 00:37:53,120
+<i>at the end of their rope still persevere</i>
+
+917
+00:37:53,153 --> 00:37:54,722
+and continue to fight,
+
+918
+00:37:54,754 --> 00:37:57,260
+<i>even though their back's
+against the wall.</i>
+
+919
+00:38:01,535 --> 00:38:02,653
+<i>In the second season,</i>
+
+920
+00:38:02,701 --> 00:38:04,504
+<i>all the characters have sort of evolved.</i>
+
+921
+00:38:04,538 --> 00:38:06,209
+<i>The world is very different.</i>
+
+922
+00:38:06,241 --> 00:38:08,312
+Expect to be a little surprised
+
+923
+00:38:08,346 --> 00:38:10,984
+because we're going down a
+very different direction
+
+924
+00:38:11,017 --> 00:38:13,154
+than the road we went
+down in season one.
+
+925
+00:38:13,187 --> 00:38:15,157
+<i>And Sam has got it really mapped out.</i>
+
+926
+00:38:15,192 --> 00:38:16,527
+When I was reading these scripts,
+
+927
+00:38:16,560 --> 00:38:18,330
+and I was just saying, "Oh, my God."
+
+928
+00:38:18,364 --> 00:38:21,402
+There's these clues that you
+kind of strand together.
+
+929
+00:38:21,435 --> 00:38:23,073
+I mean, we were like, Reddit people
+
+930
+00:38:23,107 --> 00:38:25,076
+discussing with each other
+what we thought would happen.
+
+931
+00:38:25,109 --> 00:38:26,912
+He comes up with some crazy stuff.
+
+932
+00:38:34,259 --> 00:38:37,131
+I don't know what I'm supposed to do.
+
+933
+00:38:37,165 --> 00:38:39,670
+<i>I'll tell you exactly
+what you're gonna do.</i>
+
+934
+00:38:39,703 --> 00:38:42,609
+<i>You're gonna start listening to us.</i>
+
+935
+00:38:42,642 --> 00:38:45,214
+<i>The world is a better place
+because of what we did, Elliot,</i>
+
+936
+00:38:45,247 --> 00:38:47,984
+<i>and you're gonna realize
+that one way or another.</i>
+
+937
+00:38:48,018 --> 00:38:51,024
+<i>Now here's what I need you to do now.</i>
+
+938
+00:38:51,672 --> 00:38:53,942
+<i>So what has "Mr. Robot" taught us?</i>
+
+939
+00:38:53,978 --> 00:38:56,883
+Working with the tech advisor
+has got me to change the way
+
+940
+00:38:56,918 --> 00:38:58,586
+I conduct myself.
+
+941
+00:38:58,619 --> 00:38:59,922
+Someone actually asked me the other day
+
+942
+00:38:59,955 --> 00:39:01,525
+if I wanted to hack them, could I?
+
+943
+00:39:01,559 --> 00:39:03,028
+Unfortunately, the answer was no,
+
+944
+00:39:03,061 --> 00:39:04,764
+and I really wish it was yes.
+
+945
+00:39:04,798 --> 00:39:07,169
+I tend to be paranoid
+about my own information.
+
+946
+00:39:07,202 --> 00:39:08,604
+My drives, my phone.
+
+947
+00:39:08,637 --> 00:39:11,576
+The microphone you have on
+your computer can be accessed.
+
+948
+00:39:11,609 --> 00:39:13,312
+The camera, as much
+as people don't think
+
+949
+00:39:13,346 --> 00:39:15,248
+it can be accessed, it can.
+
+950
+00:39:15,283 --> 00:39:17,755
+I tell other people to tape
+the camera on their laptop.
+
+951
+00:39:17,789 --> 00:39:20,294
+Oh, yeah, put the piece
+of tape on your laptop.
+
+952
+00:39:20,326 --> 00:39:21,962
+Absolutely a must.
+
+953
+00:39:21,996 --> 00:39:25,168
+I was literally actually about
+to get tape and do that.
+
+954
+00:39:25,202 --> 00:39:25,825
+That's great.
+
+955
+00:39:25,850 --> 00:39:28,285
+I've infected my paranoia with everyone.
+
+956
+00:39:28,635 --> 00:39:31,786
+- sync and corrections by Mr. C -
+- www.MY-SUBS.com -
+
